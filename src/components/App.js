@@ -6,10 +6,10 @@ function App() {
   return (
     <div id="main">
       // Do not alter the main div
-      <p id="para" style={{ opacity: 0 }}>
+      {/* <p id="para" style={{ opacity: 0 }}>
         Hello, I've learnt to use the full-stack evaluation tool. This makes me
         so happy
-      </p>
+      </p> */}
       <Btn />
     </div>
   );
