@@ -5,6 +5,7 @@ const btn = () => {
     <div>
       <Button
         id="click"
+        type="button"
         onClick={() => {
           <p id="para" style={{ opacity: 1 }}>
             Hello, I've learnt to use the full-stack evaluation tool. This makes
